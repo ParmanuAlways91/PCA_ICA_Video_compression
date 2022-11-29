@@ -31,3 +31,8 @@ Image compression and resolution
     
 For FFPMEG in windows, Download the FFMEG release version from the https://www.gyan.dev/ffmpeg/builds/
 For logging the output of FFPMEG, lavfi is used.
+
+For logging the output of FFPMEG, lavfi is used.
+
+For all I frames in FFPMEG, keep keyint and min-keyint as 1.
+
